@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*log*/
+*.iml
+.idea/
+log/
+model/
+**/__pycache__/
+*_data/
+**/*checkpoints*
