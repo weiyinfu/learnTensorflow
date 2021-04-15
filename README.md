@@ -1,6 +1,6 @@
 使用pytorch，弃用tensorflow。  
 
-存储学习Tensorflow的时候写的一些demo，contrib是tensorflow1.0的contrib部分（10万行代码）。  
+存储学习Tensorflow的时候写的一些demo。  
 # tensorflow的高级库
 * keras
 * tensorlayer
