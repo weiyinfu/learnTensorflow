@@ -28,7 +28,7 @@ first graph inside a scope in the second graph.
 
 from __future__ import absolute_import
 from __future__ import division
-from __future__ import print_function
+
 
 from copy import deepcopy
 from tensorflow.python.ops.variables import VariableV1

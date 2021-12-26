@@ -16,7 +16,7 @@
 """Utility functions to save/load keras Model to/from SavedModel."""
 from __future__ import absolute_import
 from __future__ import division
-from __future__ import print_function
+
 
 import os
 

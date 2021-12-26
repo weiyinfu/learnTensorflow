@@ -8,7 +8,7 @@ Author: Aymeric Damien
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
 """
 
-from __future__ import print_function
+
 
 import tensorflow as tf
 from tensorflow.contrib.tensor_forest.python import tensor_forest
